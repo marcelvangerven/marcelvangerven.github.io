@@ -20,12 +20,11 @@ author: Marcel van Gerven
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
-  # Resources:
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Products: "products"
-  # Author's home: "https://deanattali.com"
+  Products:
+    - Process control: "process-control"
+    - AI accelerator: "ai-accelerator"
+    - Adaptive Chip: "adaptive-chip"
+About Us: "aboutus"
 
 ################
 # --- Logo --- #
