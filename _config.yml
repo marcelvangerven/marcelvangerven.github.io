@@ -24,7 +24,7 @@ navbar-links:
     - Process control: "process-control"
     - AI accelerator: "ai-accelerator"
     - Adaptive Chip: "adaptive-chip"
-About Us: "aboutus"
+  About Us: "aboutus"
 
 ################
 # --- Logo --- #
