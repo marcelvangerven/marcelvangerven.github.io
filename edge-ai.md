@@ -6,4 +6,4 @@ title: Edge AI
 
 Using a unique software/hardware co-optimization approach we provide edge AI solutions for embedded systems. Our proprietary software allows for rapid deployment of neural networks and other machine learning models on programmable hardware offering minimal energy use and extremely high throughput.
 
-![](https://marcelvangerven.github.io/assets/img/edge.jpg){: .mx-auto.d-block width="100" :}
+![](https://marcelvangerven.github.io/assets/img/edge.jpg){: .mx-auto.d-block width="300" :}
