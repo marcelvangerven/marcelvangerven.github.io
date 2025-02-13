@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI System on Chip (SOC)
+title: AI System On Chip (SOC)
 # subtitle: Why you'd want to go on a date with me
 ---
 

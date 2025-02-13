@@ -23,7 +23,7 @@ navbar-links:
   Products:
     - Process control: "process-control"
     - Edge AI: "edge-ai"
-    - AI SOC: "ai-soc"
+    - AI System On Chip: "ai-soc"
   About Us: "aboutus"
 
 ################
